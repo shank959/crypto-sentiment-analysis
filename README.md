@@ -38,5 +38,6 @@ This project is designed to analyze the current sentiment of the cryptocurrency 
 
    
 ### Example Analysis should appear as such:
+<img width="1253" alt="Screenshot 2024-07-26 at 5 12 41 PM" src="https://github.com/user-attachments/assets/0f22bb4c-7ae0-4804-a26b-effc7c2543a7">
 
 <img width="1505" alt="Screenshot 2024-07-26 at 4 06 09 PM" src="https://github.com/user-attachments/assets/ea4e6c1c-639b-4be8-a2c6-85ae768afa54">
